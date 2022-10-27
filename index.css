@@ -196,57 +196,29 @@
     color: white;
 }
 .main-section {
-    padding: 50px 0; }
-  
-    .main-section.contact{
-      padding: 0;
-      background-color: #ffd0e2; }
-  
-      .contact-info{
-        background-color: #652941; 
-        color: white;}
-        .card:hover{
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
-          }
-          .img-artikel{
-            height: 60px;
-            border-radius: 10px;
-            float: left;
-          }
-          
-          .item-content{
-            float: left;
-            padding-left: 8px;
-          }
-          
-          .item-header{
-            font-size: 15px;
-            font-family: 'Times New Roman', Times, serif;
-            font-weight: bold;
-            padding: 0;
-          }
-          
-          .item-body{
-            padding: 2px;
-            font-size: 10px;
-            display: flex;
-          }            
+    padding: 50px 0; 
+}
+               
 .hero-background{
   background-image: url("img/back.png");
 }
 
 .hero {
   padding: 7rem 0 10rem 0;
-  margin-bottom: 100px; }
-  .hero.hero-inner {
+  margin-bottom: 100px; 
+}
+  
+.hero.hero-inner {
     padding: 9rem 0 7rem 0;
     margin-bottom: auto;
- }
-  .hero h1 {
+}
+.hero h1 {
     color: #ffffff;
-    font-size: 60px; }  
-    .hero {
-        padding: 7rem 0 10rem 0;
-        background: rgba(158, 197, 244, 0.6);
-        margin-bottom: 100px; }
+    font-size: 60px; 
+}  
+.hero {
+    padding: 7rem 0 10rem 0;
+    background: rgba(158, 197, 244, 0.6);
+    margin-bottom: 100px; 
+}
  
