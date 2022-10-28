@@ -54,7 +54,7 @@ body {
     background-color: #4700D8; 
 }
 .hero-background{
-    background-image: url("/UpdateProject/fp/img/back.png");
+    background-image: url("https://classy-belekoy-5a0290.netlify.app/img/back.png");
     background-size: cover;
     height: 330px;
     margin-top: 50px;
