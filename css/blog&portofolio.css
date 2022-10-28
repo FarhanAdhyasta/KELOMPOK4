@@ -70,7 +70,7 @@ body{
 
 /* jumbotron */
 .hero-background{
-    background-image:linear-gradient(to bottom,rgba(0,0,0,10),rgba(0,0,0,0)), url(/UpdateProject/fp/img/kargo1.webp);
+    background-image:linear-gradient(to bottom,rgba(0,0,0,10),rgba(0,0,0,0)), url("/UpdateProject/fp/img/kargo1.webp");
     background-size: cover;
     height: 330px;
     margin-top: 50px;

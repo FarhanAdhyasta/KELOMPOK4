@@ -200,7 +200,7 @@
 }
                
 .hero-background{
-  background-image: url(/UpdateProject/fp/img/back.png);
+  background-image: url("/UpdateProject/fp/img/back.png");
 }
 
 .hero {
